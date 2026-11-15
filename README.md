@@ -1,5 +1,6 @@
 # PixelCrok
 PixelCrok is a pixel art and frame-by-frame animation editor written in Rust. Create game sprites, work with layers, and export animations and sprite sheets.
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/375502ed-80ad-41d2-a524-221501653349" />
 
 PixelCrok
 PixelCrok is a desktop pixel art and frame-by-frame animation editor for Windows, written in Rust. It is designed for creating characters, items, tiles, and other visual assets for games.
